@@ -244,6 +244,56 @@ nav ul li>button{
 }
 /* My Resume section END  */
 
-
-
 /* <!-- Main Section End --> */
+
+
+/* <!-- Footer Section start --> */
+footer{
+    background-color: #fff8f3;
+}
+.foter{
+    max-width: 1000px;
+    margin: 50px auto 0;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 80px 0px; 
+}
+.foter h1{
+    font-style: italic;
+    font-size: 35px;
+}
+.foter p{
+    font-style: italic;
+    font-size: 17px;
+    margin: 15px 0;
+}
+
+.icon{
+    display: flex;
+}
+.icon img{
+    margin: 10px 35px 0 -10px;
+}
+
+input{
+    margin: 15px 0 0 0;
+    border: none;
+    padding: 15px 60px 15px 15px;
+}
+
+textarea{
+    margin: 15px 0 15px 0;
+    border: none;
+    padding: 15px;
+}
+.form button{
+    border: none;
+    color: whitesmoke;
+    background-color: orangered;
+    padding: 10px 20px;
+    font-size: 15px;
+    font-weight: bolder;
+    margin: 0 15px 0 0;
+    border-radius: 5px;
+}
+/* <!-- Footer Section End --> */
